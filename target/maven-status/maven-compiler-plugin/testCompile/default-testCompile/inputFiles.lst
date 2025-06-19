@@ -1,8 +1,7 @@
-D:\Gatling2\src\test\java\example\BasicSimulation.java
-D:\Gatling2\src\test\java\example\endpoints\APIendpoints.java
-D:\Gatling2\src\test\java\example\endpoints\WebEndpoints.java
-D:\Gatling2\src\test\java\example\groups\ScenarioGroups.java
-D:\Gatling2\src\test\java\example\utils\Config.java
-D:\Gatling2\src\test\java\example\utils\Keys.java
-D:\Gatling2\src\test\java\example\utils\TargetEnvResolver.java
-D:\Gatling2\src\test\java\example\waitingRoom.java
+D:\GitHub\gatling\src\test\java\waitingRoom\authorizeFlow.java
+D:\GitHub\gatling\src\test\java\waitingRoom\endpoints\APIendpoints.java
+D:\GitHub\gatling\src\test\java\waitingRoom\endpoints\WebEndpoints.java
+D:\GitHub\gatling\src\test\java\waitingRoom\groups\ScenarioGroups.java
+D:\GitHub\gatling\src\test\java\waitingRoom\utils\Config.java
+D:\GitHub\gatling\src\test\java\waitingRoom\utils\Keys.java
+D:\GitHub\gatling\src\test\java\waitingRoom\utils\TargetEnvResolver.java
